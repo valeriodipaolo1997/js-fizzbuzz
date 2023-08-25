@@ -1,5 +1,10 @@
+
+
 .row > div {
     width: 10%;
     aspect-ratio: 1/1;
     margin: 0.5rem;
+    border: 2px solid;
+    border-radius: 5px ;
+    border-color: black;
 }
